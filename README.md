@@ -1,15 +1,17 @@
-# 👋 Привет, Я @P867-case
+# 👋 Hi I am @P867-case
 
-## БАЗА
+## BASE IN MY WORKS
 
-Основные framework котороые я использую в своих работах:
+My projects are based on these frameworks:
   - Aiogram 
   - Kivy/Kivymd 
   - Django
+  - requests
+  - BeautifulSoup
 
-## Интересное
+## Operating principle 
 
-Как я говорил в конце 9-го класса и говорю сейчас:
-> Программирование это мой смысол жизни
+In my works I am not afraid to use third-party sites and projects, as they are all open access. My projects are conditionally free, you can download them and install them, but to use them you need to make a small donation, the minimum amount is $2.
 
-И сейчас у меня куча не законченных проектов __в рай меня точно не отпустят, но это даже хорошо )__ я буду жить вечно ХА ХА ХА ХА
+> the code is open, but there is no access to the functionality.
+__P867-case__
